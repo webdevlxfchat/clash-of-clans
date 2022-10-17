@@ -3,7 +3,7 @@
     class="header-bg h-24 lg:h-32 bg-top bg-cover rounded-2xl m-1 lg:m-2 flex justify-center items-center relative overflow-hidden"
   >
     <div class="absolute w-full h-full backdrop-blur-sm"></div>
-    <img class="h-24 lg:h-32 z-10" src="coc-logo.png" alt="coc-logo" />
+    <img class="h-24 lg:h-32 z-10" src="/coc-logo.png" alt="coc-logo" />
   </div>
 
   <div class="m-1 p-4 lg:m-2 rounded-2xl bg-gray-500">
@@ -52,6 +52,6 @@ console.log(main.clan);
 
 <style scoped>
 .header-bg {
-  background-image: url("header-bg.jpg");
+  background-image: url("/header-bg.jpg");
 }
 </style>
