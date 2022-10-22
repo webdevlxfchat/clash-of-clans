@@ -6,6 +6,6 @@ export const mainStore = defineStore("MainStore", {
     myBaseTag: "#92UR800RY",
     myClanTag: "#2LG00JQGQ",
     clan,
-    clanDataUpdateTime: "17-oktyabr 14:00",
+    clanDataUpdateTime: "22-oktyabr 16:30",
   }),
 });
