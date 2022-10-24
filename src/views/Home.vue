@@ -51,6 +51,8 @@ import { ref } from "vue";
 import { mainStore } from "../stores/main";
 const main = mainStore();
 
+main.getData();
+
 const isPlayAudio = ref(false);
 
 const audio = new Audio("/music-bg.mp3");
