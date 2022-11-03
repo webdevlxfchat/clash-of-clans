@@ -6,12 +6,15 @@ html {
   scroll-behavior: smooth;
 }
 
+html.dark {
+  color-scheme: dark;
+}
+
 @font-face {
   font-family: "clash";
   src: url("./fonts/clash.woff2");
 }
 
-.text-shadow-clash-style {
-  text-shadow: -1px 1px 0 #000000, 1px -1px 0 #000000, -1px -1px 0 #000000,
-    1px 2px 0 #000000;
+body {
+  @apply bg-white dark:bg-black;
 }

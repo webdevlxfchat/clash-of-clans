@@ -1,12 +1,12 @@
 <template>
-  <div class="mt-6 relative overflow-hidden bg-white">
+  <div class="mt-6 relative overflow-hidden bg-white dark:bg-black">
     <div class="pt-16 pb-80 sm:pt-24 sm:pb-40 lg:pt-40 lg:pb-48">
       <div class="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
         <div class="sm:max-w-lg">
-          <h1 class="font text-2xl font-bold tracking-wide text-white sm:text-5xl text-shadow-clash-style font-clash">
+          <h1 class="font text-2xl font-bold tracking-wide text-black dark:text-white sm:text-5xl font-clash">
             {{ member.name }}
           </h1>
-          <p class="mt-4 text-xl text-gray-500 capitalize">
+          <p class="mt-4 text-xl text-gray-500 dark:text-gray-400 capitalize">
             {{ member.role }}
           </p>
         </div>
