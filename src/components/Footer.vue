@@ -13,9 +13,9 @@
 </template>
 
 <script setup>
-import { ClockIcon } from '@heroicons/vue/24/outline';
-import { mainStore } from '../stores/main';
-import ToggleMode from './ToggleMode.vue';
+import { ClockIcon } from "@heroicons/vue/24/outline";
+import { mainStore } from "../stores/main";
+import ToggleMode from "./ToggleMode.vue";
 
 const data = mainStore().clanDataUpdateTime;
 </script>
