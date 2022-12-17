@@ -11,7 +11,7 @@
 </template>
 
 <script setup>
-const audio = new Audio("/audios/intro.mp3");
+const audio = new Audio("/audios/christmas-intro.mp3");
 
 function start() {
   audio.play();

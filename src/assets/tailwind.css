@@ -16,5 +16,24 @@ html.dark {
 }
 
 body {
-  @apply bg-white dark:bg-black;
+  @apply bg-white dark:bg-black select-none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .moving-text {
+    animation: marquee 15s linear infinite;
+  }
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.moving-text:hover {
+  animation-play-state: paused;
 }
