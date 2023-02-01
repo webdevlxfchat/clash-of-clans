@@ -27,17 +27,19 @@
           </dd>
         </div>
         <div class="border-t border-gray-200 dark:border-gray-600 pt-4">
-          <dt class="font-medium text-gray-900 dark:text-white">G'alabalar</dt>
+          <dt class="font-medium text-gray-900 dark:text-white">
+            Poytaxt ligasi
+          </dt>
           <dd class="mt-2 text-lg text-gray-500 dark:text-gray-400">
-            {{ clan.warWins }} ta
+            {{ clan.capitalLeague.name }}
           </dd>
         </div>
         <div class="border-t border-gray-200 dark:border-gray-600 pt-4">
           <dt class="font-medium text-gray-900 dark:text-white">
-            Mag'lubiyatlar
+            So'zlashish tili
           </dt>
           <dd class="mt-2 text-lg text-gray-500 dark:text-gray-400">
-            {{ clan.warLosses }} ta
+            {{ clan.chatLanguage.name }}
           </dd>
         </div>
       </dl>
