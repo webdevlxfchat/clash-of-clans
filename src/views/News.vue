@@ -5,13 +5,13 @@
     </RouterLink>
   </div>
   <h1 class="text-3xl text-center font-bold py-4">News</h1>
-  <ul class="grid lg:grid-cols-3 gap-4 p-4">
+  <ul class="grid gap-4 p-4 max-w-md mx-auto">
     <li
       class="shadow dark:shadow-white rounded-md overflow-hidden"
       v-for="item in news"
       :key="item.title">
       <img
-        class="w-full h-64 object-cover object-top"
+        class="w-full h-64 object-contain"
         :src="item.image"
         :alt="item.title" />
       <div class="p-4 space-y-2">
@@ -30,11 +30,11 @@ import { ref } from "vue";
 
 const news = ref([
   {
-    image: "/images/war-league.jpg",
-    title: "Liga boshlanmoqda...",
+    image: "/images/logo.png",
+    title: "Startup - 10",
     description:
-      "Faol bo'ling va jamoamiz muvaffaqiyatida o'z hissangizni qo'shing.",
-    date: "1-fevral 2023-yil",
+      "Klanimiz 10-darajaga yetdi, jamoamiz a'zolarini tabriklayman. Barchaga rahmat!",
+    date: "23-mart 2023-yil",
   },
 ]);
 </script>
