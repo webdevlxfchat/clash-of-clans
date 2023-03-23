@@ -15,8 +15,8 @@
     "medium": "https://api-assets.clashofclans.com/badges/200/9hjCnfsQVy8LIWGiYGDbM-a3ZYCkOavxO4A4hqU8UJM.png"
   },
   "clanLevel": 10,
-  "clanPoints": 32502,
-  "clanVersusPoints": 32503,
+  "clanPoints": 32656,
+  "clanVersusPoints": 32642,
   "clanCapitalPoints": 1637,
   "capitalLeague": {
     "id": 85000008,
@@ -31,7 +31,7 @@
     "id": 48000010,
     "name": "Crystal League III"
   },
-  "members": 49,
+  "members": 50,
   "memberList": [
     {
       "tag": "#YR8080CRC",
@@ -47,12 +47,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
         }
       },
-      "trophies": 5154,
+      "trophies": 5198,
       "versusTrophies": 4576,
       "clanRank": 1,
       "previousClanRank": 1,
-      "donations": 5279,
-      "donationsReceived": 4562,
+      "donations": 5319,
+      "donationsReceived": 4607,
       "playerHouse": {
         "elements": [
           {
@@ -88,12 +88,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
         }
       },
-      "trophies": 4834,
+      "trophies": 4885,
       "versusTrophies": 4258,
       "clanRank": 2,
       "previousClanRank": 2,
-      "donations": 15996,
-      "donationsReceived": 7481,
+      "donations": 16171,
+      "donationsReceived": 7531,
       "playerHouse": {
         "elements": [
           {
@@ -129,7 +129,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
         }
       },
-      "trophies": 4478,
+      "trophies": 4492,
       "versusTrophies": 4100,
       "clanRank": 3,
       "previousClanRank": 3,
@@ -170,12 +170,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png"
         }
       },
-      "trophies": 4246,
-      "versusTrophies": 3095,
+      "trophies": 4258,
+      "versusTrophies": 3124,
       "clanRank": 4,
       "previousClanRank": 4,
       "donations": 197,
-      "donationsReceived": 1802,
+      "donationsReceived": 2018,
       "playerHouse": {
         "elements": [
           {
@@ -203,20 +203,20 @@
       "role": "admin",
       "expLevel": 157,
       "league": {
-        "id": 29000017,
-        "name": "Champion League II",
+        "id": 29000018,
+        "name": "Champion League I",
         "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png"
+          "small": "https://api-assets.clashofclans.com/leagues/72/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png"
         }
       },
-      "trophies": 3761,
+      "trophies": 3800,
       "versusTrophies": 3325,
       "clanRank": 5,
       "previousClanRank": 6,
       "donations": 735,
-      "donationsReceived": 3070,
+      "donationsReceived": 3285,
       "playerHouse": {
         "elements": [
           {
@@ -252,11 +252,11 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png"
         }
       },
-      "trophies": 3706,
-      "versusTrophies": 3748,
+      "trophies": 3739,
+      "versusTrophies": 3808,
       "clanRank": 6,
       "previousClanRank": 5,
-      "donations": 4313,
+      "donations": 4343,
       "donationsReceived": 136,
       "playerHouse": {
         "elements": [
@@ -334,7 +334,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png"
         }
       },
-      "trophies": 3555,
+      "trophies": 3549,
       "versusTrophies": 4931,
       "clanRank": 8,
       "previousClanRank": 9,
@@ -362,6 +362,27 @@
       }
     },
     {
+      "tag": "#2YJCJ2LRV",
+      "name": "Shoxrux 91",
+      "role": "admin",
+      "expLevel": 245,
+      "league": {
+        "id": 29000017,
+        "name": "Champion League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png"
+        }
+      },
+      "trophies": 3536,
+      "versusTrophies": 4331,
+      "clanRank": 9,
+      "previousClanRank": 10,
+      "donations": 0,
+      "donationsReceived": 124
+    },
+    {
       "tag": "#QJ9LVQLVU",
       "name": "ArTiFaCt",
       "role": "admin",
@@ -375,9 +396,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png"
         }
       },
-      "trophies": 3553,
-      "versusTrophies": 2417,
-      "clanRank": 9,
+      "trophies": 3527,
+      "versusTrophies": 2419,
+      "clanRank": 10,
       "previousClanRank": 11,
       "donations": 45,
       "donationsReceived": 1241,
@@ -403,27 +424,6 @@
       }
     },
     {
-      "tag": "#2YJCJ2LRV",
-      "name": "Shoxrux 91",
-      "role": "admin",
-      "expLevel": 245,
-      "league": {
-        "id": 29000017,
-        "name": "Champion League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png"
-        }
-      },
-      "trophies": 3529,
-      "versusTrophies": 4358,
-      "clanRank": 10,
-      "previousClanRank": 10,
-      "donations": 0,
-      "donationsReceived": 124
-    },
-    {
       "tag": "#8JPGJQPJC",
       "name": "Bunyod",
       "role": "admin",
@@ -437,7 +437,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
         }
       },
-      "trophies": 3465,
+      "trophies": 3454,
       "versusTrophies": 2956,
       "clanRank": 11,
       "previousClanRank": 12,
@@ -465,47 +465,6 @@
       }
     },
     {
-      "tag": "#QCC2R90YJ",
-      "name": "Khotamov0919",
-      "role": "admin",
-      "expLevel": 106,
-      "league": {
-        "id": 29000016,
-        "name": "Champion League III",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
-        }
-      },
-      "trophies": 3267,
-      "versusTrophies": 2556,
-      "clanRank": 12,
-      "previousClanRank": 13,
-      "donations": 484,
-      "donationsReceived": 894,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000001
-          },
-          {
-            "type": "walls",
-            "id": 82000053
-          },
-          {
-            "type": "roof",
-            "id": 82000017
-          },
-          {
-            "type": "decoration",
-            "id": 82000060
-          }
-        ]
-      }
-    },
-    {
       "tag": "#9UYUCY2YU",
       "name": "JEK VORABEY",
       "role": "admin",
@@ -519,12 +478,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
         }
       },
-      "trophies": 3214,
-      "versusTrophies": 3170,
-      "clanRank": 13,
+      "trophies": 3259,
+      "versusTrophies": 3143,
+      "clanRank": 12,
       "previousClanRank": 14,
-      "donations": 710,
-      "donationsReceived": 1590,
+      "donations": 844,
+      "donationsReceived": 1712,
       "playerHouse": {
         "elements": [
           {
@@ -547,6 +506,47 @@
       }
     },
     {
+      "tag": "#QCC2R90YJ",
+      "name": "Khotamov0919",
+      "role": "admin",
+      "expLevel": 106,
+      "league": {
+        "id": 29000016,
+        "name": "Champion League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
+        }
+      },
+      "trophies": 3229,
+      "versusTrophies": 2556,
+      "clanRank": 13,
+      "previousClanRank": 13,
+      "donations": 484,
+      "donationsReceived": 936,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000001
+          },
+          {
+            "type": "walls",
+            "id": 82000053
+          },
+          {
+            "type": "roof",
+            "id": 82000017
+          },
+          {
+            "type": "decoration",
+            "id": 82000060
+          }
+        ]
+      }
+    },
+    {
       "tag": "#L8QPUJ9JG",
       "name": "Juramurod",
       "role": "coLeader",
@@ -560,12 +560,12 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
         }
       },
-      "trophies": 3201,
+      "trophies": 3181,
       "versusTrophies": 3712,
       "clanRank": 14,
       "previousClanRank": 7,
-      "donations": 5644,
-      "donationsReceived": 216,
+      "donations": 5975,
+      "donationsReceived": 293,
       "playerHouse": {
         "elements": [
           {
@@ -601,12 +601,53 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
         }
       },
-      "trophies": 3144,
+      "trophies": 3169,
       "versusTrophies": 2893,
       "clanRank": 15,
       "previousClanRank": 15,
       "donations": 201,
       "donationsReceived": 887
+    },
+    {
+      "tag": "#QVUGYPRUG",
+      "name": "KHotamov0919",
+      "role": "admin",
+      "expLevel": 101,
+      "league": {
+        "id": 29000015,
+        "name": "Master League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
+        }
+      },
+      "trophies": 2997,
+      "versusTrophies": 2254,
+      "clanRank": 16,
+      "previousClanRank": 16,
+      "donations": 233,
+      "donationsReceived": 1092,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000015
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      }
     },
     {
       "tag": "#L9G0QC2GU",
@@ -622,9 +663,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
         }
       },
-      "trophies": 3008,
+      "trophies": 2989,
       "versusTrophies": 3497,
-      "clanRank": 16,
+      "clanRank": 17,
       "previousClanRank": 17,
       "donations": 0,
       "donationsReceived": 1369,
@@ -645,47 +686,6 @@
           {
             "type": "decoration",
             "id": 82000062
-          }
-        ]
-      }
-    },
-    {
-      "tag": "#QVUGYPRUG",
-      "name": "KHotamov0919",
-      "role": "admin",
-      "expLevel": 101,
-      "league": {
-        "id": 29000015,
-        "name": "Master League I",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
-        }
-      },
-      "trophies": 2980,
-      "versusTrophies": 2254,
-      "clanRank": 17,
-      "previousClanRank": 16,
-      "donations": 156,
-      "donationsReceived": 1092,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000000
-          },
-          {
-            "type": "walls",
-            "id": 82000048
-          },
-          {
-            "type": "roof",
-            "id": 82000015
-          },
-          {
-            "type": "decoration",
-            "id": 82000058
           }
         ]
       }
@@ -867,8 +867,8 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
         }
       },
-      "trophies": 2480,
-      "versusTrophies": 2353,
+      "trophies": 2501,
+      "versusTrophies": 2360,
       "clanRank": 22,
       "previousClanRank": 23,
       "donations": 21,
@@ -1193,7 +1193,7 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
         }
       },
-      "trophies": 1881,
+      "trophies": 1895,
       "versusTrophies": 3426,
       "clanRank": 31,
       "previousClanRank": 31,
@@ -1241,6 +1241,27 @@
       }
     },
     {
+      "tag": "#G0LJYRYQL",
+      "name": "saidRASHER",
+      "role": "admin",
+      "expLevel": 86,
+      "league": {
+        "id": 29000008,
+        "name": "Gold League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
+        }
+      },
+      "trophies": 1781,
+      "versusTrophies": 970,
+      "clanRank": 33,
+      "previousClanRank": 36,
+      "donations": 238,
+      "donationsReceived": 305
+    },
+    {
       "tag": "#G80UGJ02Y",
       "name": "Remaxdevil",
       "role": "admin",
@@ -1254,9 +1275,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
         }
       },
-      "trophies": 1773,
+      "trophies": 1765,
       "versusTrophies": 2074,
-      "clanRank": 33,
+      "clanRank": 34,
       "previousClanRank": 33,
       "donations": 125,
       "donationsReceived": 364,
@@ -1296,7 +1317,7 @@
       },
       "trophies": 1757,
       "versusTrophies": 1018,
-      "clanRank": 34,
+      "clanRank": 35,
       "previousClanRank": 34,
       "donations": 0,
       "donationsReceived": 0,
@@ -1320,27 +1341,6 @@
           }
         ]
       }
-    },
-    {
-      "tag": "#G0LJYRYQL",
-      "name": "saidRASHER",
-      "role": "admin",
-      "expLevel": 86,
-      "league": {
-        "id": 29000008,
-        "name": "Gold League II",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png",
-          "medium": "https://api-assets.clashofclans.com/leagues/288/Y6CveuHmPM_oiOic2Yet0rYL9AFRYW0WA0u2e44-YbM.png"
-        }
-      },
-      "trophies": 1720,
-      "versusTrophies": 970,
-      "clanRank": 35,
-      "previousClanRank": 36,
-      "donations": 238,
-      "donationsReceived": 305
     },
     {
       "tag": "#QJPYQL2GQ",
@@ -1384,6 +1384,27 @@
       }
     },
     {
+      "tag": "#YGUYCVUJ2",
+      "name": "GoodPerson",
+      "role": "admin",
+      "expLevel": 96,
+      "league": {
+        "id": 29000007,
+        "name": "Gold League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
+        }
+      },
+      "trophies": 1598,
+      "versusTrophies": 2218,
+      "clanRank": 37,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0
+    },
+    {
       "tag": "#QU9U90L8V",
       "name": "si thu",
       "role": "admin",
@@ -1398,7 +1419,7 @@
       },
       "trophies": 1534,
       "versusTrophies": 1951,
-      "clanRank": 37,
+      "clanRank": 38,
       "previousClanRank": 39,
       "donations": 0,
       "donationsReceived": 0,
@@ -1439,7 +1460,7 @@
       },
       "trophies": 1512,
       "versusTrophies": 1921,
-      "clanRank": 38,
+      "clanRank": 39,
       "previousClanRank": 40,
       "donations": 0,
       "donationsReceived": 0,
@@ -1478,9 +1499,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
         }
       },
-      "trophies": 1480,
-      "versusTrophies": 1426,
-      "clanRank": 39,
+      "trophies": 1506,
+      "versusTrophies": 1432,
+      "clanRank": 40,
       "previousClanRank": 41,
       "donations": 0,
       "donationsReceived": 0,
@@ -1509,7 +1530,7 @@
       "tag": "#QUQG2C82C",
       "name": "Specialist",
       "role": "admin",
-      "expLevel": 57,
+      "expLevel": 58,
       "league": {
         "id": 29000007,
         "name": "Gold League III",
@@ -1519,9 +1540,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
         }
       },
-      "trophies": 1438,
+      "trophies": 1434,
       "versusTrophies": 1659,
-      "clanRank": 40,
+      "clanRank": 41,
       "previousClanRank": 42,
       "donations": 0,
       "donationsReceived": 130,
@@ -1560,9 +1581,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
         }
       },
-      "trophies": 1427,
+      "trophies": 1416,
       "versusTrophies": 1534,
-      "clanRank": 41,
+      "clanRank": 42,
       "previousClanRank": 43,
       "donations": 97,
       "donationsReceived": 1720,
@@ -1603,7 +1624,7 @@
       },
       "trophies": 1371,
       "versusTrophies": 1202,
-      "clanRank": 42,
+      "clanRank": 43,
       "previousClanRank": 44,
       "donations": 0,
       "donationsReceived": 0,
@@ -1643,7 +1664,7 @@
       },
       "trophies": 1150,
       "versusTrophies": 1221,
-      "clanRank": 43,
+      "clanRank": 44,
       "previousClanRank": 46,
       "donations": 0,
       "donationsReceived": 0
@@ -1664,10 +1685,10 @@
       },
       "trophies": 1044,
       "versusTrophies": 1331,
-      "clanRank": 44,
+      "clanRank": 45,
       "previousClanRank": 45,
       "donations": 0,
-      "donationsReceived": 352
+      "donationsReceived": 372
     },
     {
       "tag": "#QVVPVUPLR",
@@ -1685,7 +1706,7 @@
       },
       "trophies": 954,
       "versusTrophies": 1822,
-      "clanRank": 45,
+      "clanRank": 46,
       "previousClanRank": 35,
       "donations": 200,
       "donationsReceived": 872,
@@ -1725,7 +1746,7 @@
       },
       "trophies": 779,
       "versusTrophies": 958,
-      "clanRank": 46,
+      "clanRank": 47,
       "previousClanRank": 47,
       "donations": 0,
       "donationsReceived": 0
@@ -1746,7 +1767,7 @@
       },
       "trophies": 735,
       "versusTrophies": 1222,
-      "clanRank": 47,
+      "clanRank": 48,
       "previousClanRank": 48,
       "donations": 0,
       "donationsReceived": 0,
@@ -1785,9 +1806,9 @@
           "medium": "https://api-assets.clashofclans.com/leagues/288/uUJDLEdAh7Lwf6YOHmXfNM586ZlEvMju54bTlt2u6EE.png"
         }
       },
-      "trophies": 432,
+      "trophies": 458,
       "versusTrophies": 50,
-      "clanRank": 48,
+      "clanRank": 49,
       "previousClanRank": 49,
       "donations": 0,
       "donationsReceived": 20
@@ -1807,7 +1828,7 @@
       },
       "trophies": 221,
       "versusTrophies": 0,
-      "clanRank": 49,
+      "clanRank": 50,
       "previousClanRank": 50,
       "donations": 0,
       "donationsReceived": 0

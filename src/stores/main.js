@@ -5,7 +5,7 @@ export const mainStore = defineStore("MainStore", {
   state: () => ({
     myBaseTag: "#92UR800RY",
     myClanTag: "#2LG00JQGQ",
-    clanDataUpdateTime: "23-mart 12:00",
+    clanDataUpdateTime: "23-mart 17:41",
     clan,
   }),
   actions: {},
